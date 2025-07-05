@@ -13,6 +13,18 @@
 - 💼 Production-friendly Python packaging
 
 ---
+---
+
+## 📑 Index
+
+| Section            | Link                             |
+|--------------------|----------------------------------|
+| 📦 Features        | [Go to Features](#-features)     |
+| 📚 Installation    | [Go to Installation](#-installation) |
+| 🔢 assign_next_id  | [Go to assign_next_id](#-assign_next_id) |
+| 📝 Description     | [Go to Description](#-description) |
+| ✅ Advantages      | [Go to Advantages](#-advantages)   |
+| ⚠️ Disadvantages   | [Go to Disadvantages](#️-disadvantages) |
 
 ## 📚 Installation
 
